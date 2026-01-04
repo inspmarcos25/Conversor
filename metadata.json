@@ -1,0 +1,5 @@
+{
+  "name": "OmniConvert",
+  "description": "A beautiful, modern unit converter supporting Pressure, Volume, Temperature, Length, and Mass with a sleek dark/light mode UI.",
+  "requestFramePermissions": []
+}
